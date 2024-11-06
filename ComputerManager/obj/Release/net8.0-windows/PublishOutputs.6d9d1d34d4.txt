@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\ComputerManagerServerForm.exe
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\ComputerManagerClientPC1.exe
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\ComputerManagerServerForm.deps.json
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\ComputerManagerServerForm.runtimeconfig.json
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\ComputerManagerClientPC1.dll
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\ComputerManagerClientPC1.deps.json
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\ComputerManagerClientPC1.runtimeconfig.json
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\ComputerManagerClientPC1.pdb
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\ComputerManagerServerForm.dll
+C:\Users\Admin\Desktop\computer manager tests\client_pc1\ComputerManagerServerForm.pdb

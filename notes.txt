@@ -1,0 +1,9 @@
+1. Change IP to wifi IP (ipv4) in C# codebase
+2. SQL Server Configuration change "Named Pipes and TCP/IP to Enable and IP" 
+3. Firewall settings: add inbound/outbound rules port : 1433
+4. Set SQL Server Browser to Enable
+5. 
+
+$(MSBuildProjectName)
+
+$(MSBuildProjectName)

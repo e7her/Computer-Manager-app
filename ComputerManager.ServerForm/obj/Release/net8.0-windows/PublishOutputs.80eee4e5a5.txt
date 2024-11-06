@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\ComputerManagerServerForm.exe
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\ComputerManagerServerForm.dll
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\ComputerManagerServerForm.deps.json
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\ComputerManagerServerForm.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\ComputerManagerServerForm.pdb
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\C# Projects\ComputerManager\TESTS\Server 2.5\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
